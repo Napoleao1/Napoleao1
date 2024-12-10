@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">Tenho grande afinidade com Python, que é minha principal linguagem de programação, e venho explorando o uso de SQL para manipulação e análise de dados. Também estudo JavaScript e Node.js, ampliando meus conhecimentos para o desenvolvimento de aplicações completas. Atualmente, meu foco está em criar soluções que automatizem processos e facilitem o dia a dia das pessoas. No futuro, meu objetivo é me tornar um especialista em sistemas, aplicando minhas habilidades para desenvolver soluções inovadoras e eficientes. Sempre tive o desejo de unir tecnologia e criatividade para resolver problemas de forma prática e impactante.</h5>
+<h4 align="left">Tenho grande afinidade com Python, que é minha principal linguagem de programação, e venho explorando o uso de SQL para manipulação e análise de dados. Também estudo JavaScript e Node.js, ampliando meus conhecimentos para o desenvolvimento de aplicações completas. Atualmente, meu foco está em criar soluções que automatizem processos e facilitem o dia a dia das pessoas. No futuro, meu objetivo é me tornar um especialista em sistemas, aplicando minhas habilidades para desenvolver soluções inovadoras e eficientes. Sempre tive o desejo de unir tecnologia e criatividade para resolver problemas de forma prática e impactante.</h5>
 
 ###
 
