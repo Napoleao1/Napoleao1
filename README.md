@@ -6,8 +6,7 @@
 
 ###
 
-<h5 align="left"Estudante de tecnologia com foco principal em Python. No momento, venho expandindo minhas habilidades para o back-end.</h5>
-
+<h5 align="left">Estudante de tecnologia com foco principal em Python. No momento, venho expandindo minhas habilidades para o back-end.</h5>
 ###
 
 <h3 align="left">Techs</h3>
