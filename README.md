@@ -29,18 +29,6 @@
 
 ###
 
-<h3 align="left">Projetos</h3>
-
-###
-
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| [Lumi Rê Clínica](https://github.com/Napoleao1/lumi-re-landing) | Landing page para clínica de estética | [Acessar](https://lumi-re-clinica.netlify.app) |
-| [Price Monitor](https://github.com/Napoleao1/price-monitor) | Monitor de preços com alertas | - |
-| [RPA Fiscal](https://github.com/Napoleao1/rpa-fiscal) | Automação de leitura de NF-e (XML) | - |
-| [Automação Relatórios](https://github.com/Napoleao1/automacao-relatorios) | Consolidação automática de planilhas | - |
-
-###
 
 <h3 align="left">Stats</h3>
 
