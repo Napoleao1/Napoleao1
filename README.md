@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:6272a4,100:bd93f9&height=200&section=header&text=Ernani%20Napoleao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Dados%20%7C%20Python%20%7C%20Django&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:6272a4,100:bd93f9&height=200&section=header&text=Ernani%20Napoleao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20%7C%20Django%20%7C%20SQL%20%7C%20Flask&descSize=18&descAlignY=55" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Assistente+de+Engenharia+de+Dados+%F0%9F%93%8A;Expandindo+para+Python+Web+%26+Back-end+%F0%9F%90%8D;Django+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Python+Web+%26+Back-end+%F0%9F%90%8D;Python%2C+Django%2C+SQL+%26+Flask+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ###
@@ -17,11 +17,9 @@
 
 <h3 align="left">🧑‍💻 Sobre mim:</h3>
 
-- 💼 **Assistente de Engenharia de Dados**
 - 🐍 Foco principal em **Python**
-- 🌱 Expandindo habilidades para **web e back-end com Django**
-- 🔭 Construindo um **DevBlog** do zero pra consolidar o aprendizado
-- ⚡ Meta: unir dados + back-end num só stack
+- 🌱 Expandindo habilidades para **web e back-end**
+- ⚙️ Estudando **Django, Flask e Jinja**
 
 <br clear="both">
 
@@ -32,7 +30,11 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,nodejs,mysql,html,css,bootstrap,git,github,vscode&perline=11" alt="techs" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,nodejs,mysql,html,css,bootstrap,git,github,vscode&perline=12" alt="techs" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="jinja badge" />
 </div>
 
 ###
