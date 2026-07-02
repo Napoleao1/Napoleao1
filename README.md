@@ -17,9 +17,9 @@
 
 <h3 align="left">🧑‍💻 Sobre mim:</h3>
 
-- 🐍 Foco principal em **Python**
+- 🐍 Estudante de programação com foco em **Python**
 - 🌱 Expandindo habilidades para **web e back-end**
-- ⚙️ Estudando **Django, Flask e Jinja**
+- ⚙️  Atualmente expandindo estudos em **Django, Flask e Jinja**
 
 <br clear="both">
 
