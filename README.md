@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Ernani%20Napoleao&fontSize=42&fontColor=fff&animation=twinkling&desc=Python%20%7C%20Django%20%7C%20Back-end&descAlignY=75" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:6272a4,100:bd93f9&height=200&section=header&text=Ernani%20Napoleao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Dados%20%7C%20Python%20%7C%20Django&descSize=18&descAlignY=55" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Estudante+de+Python+%F0%9F%90%8D;Back-end+com+Django+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Assistente+de+Engenharia+de+Dados+%F0%9F%93%8A;Expandindo+para+Python+Web+%26+Back-end+%F0%9F%90%8D;Django+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ###
@@ -17,11 +17,11 @@
 
 <h3 align="left">🧑‍💻 Sobre mim:</h3>
 
-- 🎓 Estudante de tecnologia com foco em **Python**
-- 🌱 Atualmente mergulhando no **back-end com Django**
+- 💼 **Assistente de Engenharia de Dados**
+- 🐍 Foco principal em **Python**
+- 🌱 Expandindo habilidades para **web e back-end com Django**
 - 🔭 Construindo um **DevBlog** do zero pra consolidar o aprendizado
-- 💬 Me pergunte sobre **Python, Django e Git**
-- ⚡ Meta: dominar o back-end, um commit por dia
+- ⚡ Meta: unir dados + back-end num só stack
 
 <br clear="both">
 
@@ -42,13 +42,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=napoleao1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=napoleao1&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=napoleao1&theme=dracula" height="180" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=napoleao1&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=napoleao1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=napoleao1&theme=dracula&utcOffset=-3" height="150" alt="horarios produtivos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=napoleao1&theme=dracula" height="180" alt="linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=napoleao1&theme=dracula&utcOffset=-3" height="180" alt="horarios produtivos" />
 </div>
 
 <div align="center">
@@ -71,7 +71,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/napoleao1/napoleao1/output/snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/napoleao1/napoleao1/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -88,4 +88,4 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:282a36&height=120&section=footer" width="100%" />
